@@ -20,6 +20,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+
+DISQUS_SITENAME = u'peerworld'
+
 THEME = 'themes/cleanblog'
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
